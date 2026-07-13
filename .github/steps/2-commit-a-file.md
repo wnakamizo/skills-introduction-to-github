@@ -17,7 +17,7 @@ _ブランチを作成できました！ :tada:_
 
 2. **Add file** ドロップダウンを選択し、**Create new file** をクリックしてください。
 
-   <img width="300" alt="新しいファイル作成オプションのスクリーンショット" src="../images/create-new-file-option.png">
+   <img width="300" alt="新しいファイル作成オプションのスクリーンショット" src="https://github.com/wnakamizo/skills-introduction-to-github/blob/main/.github/images/create-new-file-option.png?raw=true">
 
 3. **Name your file...** フィールドに `PROFILE.md` と入力してください。
 
@@ -27,7 +27,7 @@ _ブランチを作成できました！ :tada:_
    Welcome to my GitHub profile!
    ```
 
-   ![PROFILE.mdファイルを追加するスクリーンショット](../images/add-profile-file.png)
+   ![PROFILE.mdファイルを追加するスクリーンショット](https://github.com/wnakamizo/skills-introduction-to-github/blob/main/.github/images/add-profile-file.png?raw=true)
 
 5. コンテンツボックスの右上にある **Commit changes...** をクリックしてください。ダイアログが表示されます。
 
@@ -35,7 +35,7 @@ _ブランチを作成できました！ :tada:_
 
    - **コミットメッセージ** とオプションの **拡張説明** は、変更内容を明確にするのに役立ちます。特にコミットに複数のファイルが含まれる場合に便利です。
 
-   <img width="400" alt="コミットメッセージ付きで新しいファイルを追加するスクリーンショット" src="../images/commit-message-dialog.png">
+   <img width="400" alt="コミットメッセージ付きで新しいファイルを追加するスクリーンショット" src="https://github.com/wnakamizo/skills-introduction-to-github/blob/main/.github/images/commit-message-dialog.png?raw=true">
 
 6. このレッスンでは、他のフィールドは無視して **Commit changes** をクリックしてください。
 

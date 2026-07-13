@@ -10,7 +10,7 @@ _コミットお見事です！ :sparkles:_
 
 コミット後に、最近のプッシュを知らせるメッセージと **Compare & pull request** ボタンが表示されたことに気づいたかもしれません。
 
-![メッセージとボタンのスクリーンショット](../images/compare-pull-request-button.png)
+![メッセージとボタンのスクリーンショット](https://github.com/wnakamizo/skills-introduction-to-github/blob/main/.github/images/compare-pull-request-button.png?raw=true)
 
 自動的にプルリクエストを作成するには、**Compare & pull request** ボタンをクリックして、以下の手順5に進んでください。または、手順1〜4で手動で作成する練習もできます。
 
@@ -21,7 +21,7 @@ _コミットお見事です！ :sparkles:_
    - **base:** `main`
    - **compare:** `my-first-branch`
 
-   ![両方のブランチ選択を示すスクリーンショット](../images/branch-selection-comparison.png)
+   ![両方のブランチ選択を示すスクリーンショット](https://github.com/wnakamizo/skills-introduction-to-github/blob/main/.github/images/branch-selection-comparison.png?raw=true)
 
 4. **Create pull request** をクリックしてください。
 
@@ -29,7 +29,7 @@ _コミットお見事です！ :sparkles:_
 
 6. 次のフィールドでは、行った変更の **説明** を入力できます。ここまでに行ったことの簡単な説明を入力してください。振り返ると、新しいブランチの作成、ファイルの作成、コミットの作成を行いました。
 
-   ![プルリクエストを示すスクリーンショット](../images/create-pull-request-form.png)
+   ![プルリクエストを示すスクリーンショット](https://github.com/wnakamizo/skills-introduction-to-github/blob/main/.github/images/create-pull-request-form.png?raw=true)
 
 7. **Create pull request** をクリックしてください。
 
